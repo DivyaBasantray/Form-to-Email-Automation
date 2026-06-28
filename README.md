@@ -106,9 +106,17 @@ Form Lead Update
 **Email Body**
 
 ```
-Name: Divya
+Hey Divya,
+
+How are you? There is a new lead on the form.
+
+Name :  Divya
 Service: Consultation
 Time: 2026-06-28T21:00:54.047+05:30
+
+Source : x7RO2r2DFb9MhVNa
+
+Thanks.
 
 ```
 
