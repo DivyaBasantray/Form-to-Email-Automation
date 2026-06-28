@@ -58,8 +58,6 @@ The complete process executes automatically within seconds after a user submits 
 (Send Email Notification)
 ```
 
----
-
 # 🔄 Workflow Explanation
 
 ## 📝 Step 1: Form Submission
@@ -138,44 +136,6 @@ Time: 2026-06-28T21:00:54.047+05:30
 
 ---
 
-# 📷 Project Screenshots
-
-Include screenshots of:
-
-* 📌 n8n Workflow
-* 📌 n8n Form
-* 📌 Google Sheets after form submission
-* 📌 Gmail notification email
-
-Example folder structure:
-
-```
-screenshots/
-│
-├── workflow.png
-├── form.png
-├── google-sheet.png
-└── gmail-notification.png
-```
-
----
-
-# 📂 Repository Structure
-
-```
-📁 n8n-form-google-sheets-gmail-automation
-│
-├── README.md
-├── workflow.json
-└── screenshots/
-    ├── workflow.png
-    ├── form.png
-    ├── google-sheet.png
-    └── gmail-notification.png
-```
-
----
-
 # 📚 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
@@ -186,18 +146,6 @@ Through this project, I gained hands-on experience in:
 * 📧 Sending dynamic email notifications
 * ⚡ Designing trigger-based automation workflows
 * 🔄 Creating end-to-end business process automations
-
----
-
-# 🚀 Future Enhancements
-
-* 🔹 Store submissions in MySQL/PostgreSQL
-* 🔹 Add AI-powered email summaries
-* 🔹 Validate user inputs before processing
-* 🔹 Prevent duplicate form submissions
-* 🔹 Add Slack or Microsoft Teams notifications
-* 🔹 Implement error handling and retry mechanisms
-* 🔹 Build a Power BI dashboard using the collected responses
 
 ---
 
