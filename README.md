@@ -69,9 +69,7 @@ The workflow begins when a user fills out and submits the **n8n Form**.
 Example information collected:
 
 * Name
-* Email Address
-* Phone Number
-* Message
+* Service (Training/ Consultation)
 
 The form submission automatically triggers the workflow.
 
@@ -85,9 +83,9 @@ Each new submission creates a separate row, making it easy to organize, access, 
 
 Example:
 
-| Name     | Email                                   | Phone      | Message |
-| -------- | --------------------------------------- | ---------- | ------- |
-| John Doe | [john@gmail.com](mailto:john@gmail.com) | 9876543210 | Hello   |
+| Name     | Service      | Time                          |
+| -------- | ------------ | ----------------------------- | 
+| Divya | Consultation | 2026-06-28T21:00:54.047+05:30 |
 
 No manual copying or data entry is required.
 
