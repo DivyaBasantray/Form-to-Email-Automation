@@ -159,8 +159,8 @@ Through this project, I gained hands-on experience in:
 
 # 🎯 Conclusion
 
-This project demonstrates how **n8n** can automate repetitive business tasks by integrating multiple services into a single workflow.
+* This project demonstrates how **n8n** can automate repetitive business tasks by integrating multiple services into a single workflow.
 
-By combining **n8n Forms**, **Google Sheets**, and **Gmail**, the workflow efficiently collects user information, stores it securely, and sends instant notifications without any manual effort.
+* By combining **n8n Forms**, **Google Sheets**, and **Gmail**, the workflow efficiently collects user information, stores it securely, and sends instant notifications without any manual effort.
 
-It showcases practical skills in workflow automation, cloud integrations, process optimization, and low-code development that can be applied to real-world business scenarios.
+* It showcases practical skills in workflow automation, cloud integrations, process optimization, and low-code development that can be applied to real-world business scenarios.
