@@ -106,7 +106,7 @@ Form Lead Update
 **Email Body**
 
 ```
-Name: John Doe
+Name: Divya
 Service: Consultation
 Time: 2026-06-28T21:00:54.047+05:30
 
