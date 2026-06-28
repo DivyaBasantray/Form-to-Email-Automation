@@ -102,16 +102,16 @@ Example Email:
 **Subject**
 
 ```
-New Form Submission Received
+Form Lead Update
 ```
 
 **Email Body**
 
 ```
 Name: John Doe
-Email: john@gmail.com
-Phone: 9876543210
-Message: Hello
+Service: Consultation
+Time: 2026-06-28T21:00:54.047+05:30
+
 ```
 
 ---
