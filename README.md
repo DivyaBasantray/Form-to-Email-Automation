@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates an end-to-end workflow automation built using **n8n**.
+This project demonstrates an end-to-end workflow automation which is built using **n8n**.
 
 Whenever a user submits the **n8n Form**, the workflow is automatically triggered to process the submitted information without any manual intervention.
 
