@@ -34,11 +34,11 @@ This workflow automates the entire process, ensuring every submission is capture
 
 Using **n8n**, I designed an automated workflow that:
 
-✅ Receives form submissions
+* Receives form submissions
 
-✅ Stores submitted information in Google Sheets
+* Stores submitted information in Google Sheets
 
-✅ Sends an automated email with the submitted details
+* Sends an automated email with the submitted details
 
 The complete process executes automatically within seconds after a user submits the form.
 
@@ -135,12 +135,12 @@ Thanks.
 
 # Features
 
-* ✅ Automated workflow using n8n
-* ✅ Trigger-based form processing
-* ✅ Automatic data storage in Google Sheets
-* ✅ Automatic Gmail notification
-* ✅ No manual intervention required
-* ✅ Easy to customize and extend
+* Automated workflow using n8n
+* Trigger-based form processing
+* Automatic data storage in Google Sheets
+* Automatic Gmail notification
+* No manual intervention required
+* Easy to customize and extend
 
 ---
 
