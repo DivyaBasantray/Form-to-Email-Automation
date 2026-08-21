@@ -1,6 +1,6 @@
-# 🤖 n8n Form Automation | Google Sheets & Gmail Integration
+# n8n Form Automation | Google Sheets & Gmail Integration
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates an end-to-end workflow automation which is built using **n8n**.
 
@@ -8,29 +8,29 @@ Whenever a user submits the **n8n Form**, the workflow is automatically triggere
 
 The workflow performs the following tasks:
 
-* 📝 Collects user input from the **n8n Form**
-* 📊 Appends the submitted data as a **new row** in **Google Sheets**
-* 📧 Sends an automated email containing the submitted details using **Gmail**
+* Collects user input from the **n8n Form**
+*  Appends the submitted data as a **new row** in **Google Sheets**
+*  Sends an automated email containing the submitted details using **Gmail**
 
 This automation streamlines the process of collecting, storing, and notifying users about form submissions, eliminating repetitive manual work.
 
 ---
 
-# 🚀 Problem Statement
+# Problem Statement
 
 Organizations often spend valuable time manually transferring form responses into spreadsheets and sending confirmation emails.
 
 This repetitive process can lead to:
 
-* ⏳ Time-consuming manual work
-* ❌ Human errors during data entry
-* 📉 Reduced productivity
+*  Time-consuming manual work
+*  Human errors during data entry
+*  Reduced productivity
 
 This workflow automates the entire process, ensuring every submission is captured, stored, and communicated instantly.
 
 ---
 
-# 💡 Solution
+#  Solution
 
 Using **n8n**, I designed an automated workflow that:
 
@@ -44,23 +44,23 @@ The complete process executes automatically within seconds after a user submits 
 
 ---
 
-# ⚙️ Workflow Architecture
+# Workflow Architecture
 
 ```text
-📝 n8n Form
+    n8n Form
        │
        ▼
-📊 Google Sheets
-(Append New Row)
+  Google Sheets
+ (Append New Row)
        │
        ▼
-📧 Gmail
+     Gmail
 (Send Email Notification)
 ```
 
-# 🔄 Workflow Explanation
+# Workflow Explanation
 
-## 📝 Step 1: Form Submission
+## Step 1: Form Submission
 
 The workflow begins when a user fills out and submits the **n8n Form**.
 
@@ -73,7 +73,7 @@ The form submission automatically triggers the workflow.
 
 ---
 
-## 📊 Step 2: Store Data in Google Sheets
+## Step 2: Store Data in Google Sheets
 
 The submitted information is automatically inserted into **Google Sheets**.
 
@@ -89,7 +89,7 @@ No manual copying or data entry is required.
 
 ---
 
-## 📧 Step 3: Email Notification
+## Step 3: Email Notification
 
 After successfully updating Google Sheets, the workflow automatically sends an email through **Gmail**.
 
@@ -122,18 +122,18 @@ Thanks.
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
-| Technology       | Purpose             |
-| ---------------- | ------------------- |
-| 🤖 n8n           | Workflow Automation |
-| 📝 n8n Form      | Data Collection     |
-| 📊 Google Sheets | Data Storage        |
-| 📧 Gmail         | Email Notification  |
+| Technology     | Purpose             |
+| -------------- | ------------------- |
+|  n8n           | Workflow Automation |
+|  n8n Form      | Data Collection     |
+|  Google Sheets | Data Storage        |
+|  Gmail         | Email Notification  |
 
 ---
 
-# ✨ Features
+# Features
 
 * ✅ Automated workflow using n8n
 * ✅ Trigger-based form processing
@@ -144,20 +144,20 @@ Thanks.
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
-* 🤖 Building workflow automations using n8n
-* 🔗 Integrating multiple cloud applications
-* 📊 Automating data collection and storage
-* 📧 Sending dynamic email notifications
-* ⚡ Designing trigger-based automation workflows
-* 🔄 Creating end-to-end business process automations
+*  Building workflow automations using n8n
+*  Integrating multiple cloud applications
+*  Automating data collection and storage
+*  Sending dynamic email notifications
+*  Designing trigger-based automation workflows
+*  Creating end-to-end business process automations
 
 ---
 
-# 🎯 Conclusion
+# Conclusion
 
 * This project demonstrates how **n8n** can automate repetitive business tasks by integrating multiple services into a single workflow.
 
